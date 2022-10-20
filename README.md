@@ -1,7 +1,7 @@
 # Hey there, I'm [Gary](https://github.com/GaryTheTurtle) 👋
 
 ### I'm a full stack developer and professional designer.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,mongodb,figma,powershell,py,lua,vscode,visualstudio,ps,ae,pr,blender,eclipse,heroku,stackoverflow,twitter,discord,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,mongodb,figma,powershell,py,lua,vscode,visualstudio,ps,ae,pr,blender,eclipse,heroku,stackoverflow,twitter,discord,kotlin,haxe,linux,tailwind,react)](https://skillicons.dev)
 
 <hr>
 
