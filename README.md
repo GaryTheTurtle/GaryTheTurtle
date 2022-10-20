@@ -5,7 +5,7 @@
 
 <hr>
 
-### You can view the rest of my projects on my [profile](https://github.com/Saigeie)! Almost everything i work on is open source and im always up for suggestions
+### You can view the rest of my projects on my [profile](https://github.com/Saigeie)! Almost everything I work on is open-source and I'm always up for suggestions!
 
 <hr>
 
